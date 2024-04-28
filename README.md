@@ -1,1 +1,1 @@
-# Game-Quiz-JS
+# Quiz Game JS
